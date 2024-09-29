@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carspeedlimit", "carspeedlimit\carspeedlimit.csproj", "{97407DCD-7F2B-492F-9161-3D72A1DD7258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97407DCD-7F2B-492F-9161-3D72A1DD7258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97407DCD-7F2B-492F-9161-3D72A1DD7258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97407DCD-7F2B-492F-9161-3D72A1DD7258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97407DCD-7F2B-492F-9161-3D72A1DD7258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBF4B80-DA5A-4E6A-810F-5AB7F810EAF3}
+	EndGlobalSection
+EndGlobal
